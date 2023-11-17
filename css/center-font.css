@@ -1,0 +1,20 @@
+.center-font {
+    text-align: center;
+    color: #66ccff;
+}
+
+.dt{
+  color:rgb(188, 67, 192);
+  font-size:20px;
+}
+
+.g{
+  color:rgb(108, 199, 65);
+  font-size:15px;
+}
+
+.p{
+  color:rgb(131, 82, 160);
+  font-size:15px;
+  font-style: oblique;
+}
